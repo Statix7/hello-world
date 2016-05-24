@@ -1,2 +1,3 @@
 # hello-world
-Beginning a new adventure
+
+Expanding to new areas of interest
